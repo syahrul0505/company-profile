@@ -1,0 +1,15 @@
+    <script src="{{ asset('assets/js/vendors/jquery-3.5.1.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/popper.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/jquery.easing.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/mixitup.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/headroom.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/smooth-scroll.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/wow.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/jquery.waypoints.min.js') }}"></script>
+    <!--<script src="assets/js/vendors/countUp.min.js"></script>-->
+    <script src="{{ asset('assets/js/vendors/jquery.countdown.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendors/validator.min.js') }}"></script>
+    <script src="{{ asset('assets/js/app.js') }}"></script>
