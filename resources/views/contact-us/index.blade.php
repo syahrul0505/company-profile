@@ -37,7 +37,7 @@
     <section class="section section-lg pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="rounded-custom text-center shadow-sm">
                         <div class="card-body py-5">
                             <div class="icon icon-md text-secondary">
@@ -45,12 +45,12 @@
                             </div>
                             <div>
                                 <h5 class="h6">Call Us</h5>
-                                <p class="text-muted mb-0">+123 456-78900</p>
+                                <p class="text-muted mb-0">(+62) 859 5946 8196</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="rounded-custom text-center shadow-sm">
                         <div class="card-body py-5">
                             <div class="icon icon-md text-secondary">
@@ -58,12 +58,12 @@
                             </div>
                             <div>
                                 <h5 class="h6">Visit Us</h5>
-                                <p class="text-muted mb-0">New York, CA N310</p>
+                                <p class="text-muted mb-0">Bekasi, Babelan 17211 </p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="rounded-custom text-center shadow-sm">
                         <div class="card-body py-5">
                             <div class="icon icon-md text-secondary">
@@ -71,12 +71,12 @@
                             </div>
                             <div>
                                 <h5 class="h6">Mail Us</h5>
-                                <p class="text-muted mb-0">help@yourdomain.com</p>
+                                <p class="text-muted mb-0">shurekai@gmail.com</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                {{-- <div class="col-lg-3 col-md-6 col-sm-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="rounded-custom text-center shadow-sm">
                         <div class="card-body py-5">
                             <div class="icon icon-md text-secondary">
@@ -88,7 +88,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
